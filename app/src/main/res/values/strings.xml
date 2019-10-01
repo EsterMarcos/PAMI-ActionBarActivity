@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyActivity</string>
+    <string name="btnProximo">Próximo</string>
+    <string name="action_sobre">Sobre</string>
+    <string name="action_sair">Sair</string>
+
+</resources>
